@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_content" type="id" />
+    <item name="listview" type="id" />
+    <item name="btn_editnote" type="id" />
+    <item name="tv_date" type="id" />
+    <item name="et_content" type="id" />
+    <item name="btn_cancel" type="id" />
+    <item name="btn_ok" type="id" />
+</resources>
